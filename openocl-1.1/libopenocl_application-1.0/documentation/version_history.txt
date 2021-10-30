@@ -1,0 +1,3 @@
+22 Jun 2005:	libopenocl_application-1.0.8
+02 Mar 2005:	libopenocl_application-0_1_0
+02 Feb 2005:	Initial import

@@ -1,0 +1,15 @@
+28 Jun 2005:	Public release of libopenocl_ui-1.0
+22 Jun 2005:	libopenocl_ui-1.0.8
+
+		VisualDisplay has been merged with Visual. Lots of other changes.
+
+02 Mar 2005:	libopenocl_ui-0.7.2
+
+		This is the last version that called a VisualDisplay interface
+		an AbstractDisplay. I just can't come up with a better name than
+		VisualDisplay apart from Display, however that conflicts with
+		X11's Display type.
+
+02 Dec 2004:	libopenocl_ui-0.7.1
+19 Nov 2004:	initial import of version 0.7
+

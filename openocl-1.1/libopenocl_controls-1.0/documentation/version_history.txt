@@ -1,0 +1,4 @@
+28 Jun 2005:	Public release of libopenocl_controls-1.0
+22 Jun 2005:	libopenocl_controls-1.0.8
+02 Mar 2005:	libopenocl_controls-0_1_0
+14 Jan 2005:	Initial import

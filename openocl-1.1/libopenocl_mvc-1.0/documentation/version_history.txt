@@ -1,0 +1,12 @@
+22 Jun 2005:	libopenocl_mvc-1.0.8
+
+	Added DocumentPaneMonitor
+
+02 Dec 2004:	libopenocl_mvc-0.7
+
+	This is the last version that uses the Event by pointer event mechanism as
+	used by libopenocl_base-1.0.6 and earlier. This is the version of mvs used
+	by libopenocl_ui-0.7.1 and earlier.
+
+02 Dec 2004:	Initial import
+
